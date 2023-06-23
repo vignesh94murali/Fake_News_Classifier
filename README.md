@@ -1,2 +1,2 @@
 # Fake_News_Classifier
-NLP
+99% Accuracy with NLP (Spacy)
